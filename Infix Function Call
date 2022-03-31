@@ -18,5 +18,5 @@ class Structure() {
 
 fun main(args: Array<String>) {
     val p = Structure()
-    p createPyramid 4       // p.createPyramid(4)
+    p createPyramid 4      
 }
