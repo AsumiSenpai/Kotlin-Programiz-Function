@@ -1,0 +1,5 @@
+fun main(args: Array<String>) {
+    println(getName("Satriya", "Raihan"))
+}
+
+fun getName(lastName: String, firstName: String ): String = "$firstName $lastName"
